@@ -117,6 +117,15 @@ java Actividad3
 ## Actividad 4. Matrices especiales y decisión técnica
 
 
+**4.1 ¿Qué es una matriz cuadrada?**
+Una matriz cuadrada es aquella que tiene la misma cantidad de filas y columnas. Por ejemplo, una matriz de $3 \times 3$ tiene tres filas y tres columnas.
+
+**4.2 ¿Qué es una matriz poco densa?**
+Una matriz poco densa es aquella en la que la mayoría de sus posiciones no contienen información relevante o contienen valores vacíos o iguales a cero, mientras que solamente unas pocas posiciones tienen datos.
+
+**4.3 Ejemplo aplicado al caso académico**
+Un ejemplo aplicado al caso académico sería el siguiente: si la institución tiene 20 aulas y 10 bloques horarios disponibles para los talleres, existen 200 combinaciones posibles de aula y horario. Sin embargo, en un determinado periodo solamente se utilizan 15 combinaciones, mientras que las demás permanecen sin estudiantes. En este caso, una matriz poco densa sería más conveniente que una matriz completa, porque la mayoría de las posiciones estarían vacías o tendrían valor cero. De esta manera, se puede trabajar principalmente con las posiciones que realmente contienen información, evitando manejar una gran cantidad de posiciones sin datos.
+
 
 ## 5. Matriz de participación
 
@@ -125,7 +134,7 @@ java Actividad3
 | [José Fernando Frias Díaz] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Gianfranco Arturo Bernal Saravia] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Martha Sofia Lozano Paredes] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Nombre 4] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| Yanhira Lizeth Gutiérrez Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Alessandro Ismael Gallo Quiroz] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 
 
@@ -141,4 +150,4 @@ java Actividad3
 
 ---
 
-**Última actualización:** [DD/MM/AAAA]
+**Última actualización:** [22/09/2026]

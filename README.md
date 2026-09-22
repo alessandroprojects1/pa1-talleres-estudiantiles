@@ -1,4 +1,4 @@
-# PA1 - Evaluación aplicada sobre estructuras lineales estáticas
+<img width="652" height="577" alt="image" src="https://github.com/user-attachments/assets/3ae14178-77f6-41f7-8fcb-62c13bdcdd57" /># PA1 - Evaluación aplicada sobre estructuras lineales estáticas
 
 
 ## ACTIVIDAD 2 - Modelado y operaciones con vectores
@@ -28,3 +28,4 @@ javac src/TallerInscritos.java
 java src.TallerInscritos
 ```
 **4. Evidencias**
+<img width="652" height="577" alt="evidencias" src="https://github.com/user-attachments/assets/e59a40ea-6b6b-4fc1-b1fb-cf3646d63dde" />

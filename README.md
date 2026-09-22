@@ -8,11 +8,11 @@
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [José Fernando Frias Díaz] | [Rol] | [100%] |
-| [Gianfranco Arturo Bernal Saravia] | [Rol] | [100%] |
-| [Martha Sofia Lozano Paredes] | [Rol] | [100%] |
-| [Yanhira Lizeth Gutiérrez Pérez] | [Rol] | [100%] |
-| [Alessandro Ismael Gallo Quiroz] | [Rol] | [100%] |
+| [José Fernando Frias Díaz] | [Desarrollador de Módulos Matriciales] | [Desarrollo e implementación algorítmica de la Actividad 3 (Matrices y recorrido completo de datos).] |
+| [Gianfranco Arturo Bernal Saravia] | [Analista de Estructuras Especiales] | [Investigación y estructuración técnica de la Actividad 4 (Matrices especiales y decisión técnica).] |
+| [Martha Sofia Lozano Paredes] | [Gestor de Repositorio y Documentación] | [Configuración del repositorio en GitHub, diseño de la presentación ejecutiva (PPT) y redacción de conclusiones.] |
+| [Yanhira Lizeth Gutiérrez Pérez] | [Analista de Requisitos y Fundamentación] | [Análisis conceptual y desarrollo teórico de la Actividad 1 (Análisis del problema y selección de estructura).] |
+| [Alessandro Ismael Gallo Quiroz] | [Desarrollador Backend Principal] | [Modelado, desarrollo de algoritmos vectoriales y lógica de ordenamiento de la Actividad 2] |
 
 ------------------------------------------------------------------------------------------
 
@@ -117,13 +117,13 @@ java Actividad3
 ## Actividad 4. Matrices especiales y decisión técnica
 
 
-**4.1 ¿Qué es una matriz cuadrada?**
+**1. ¿Qué es una matriz cuadrada?**
 Una matriz cuadrada es aquella que tiene la misma cantidad de filas y columnas. Por ejemplo, una matriz de $3 \times 3$ tiene tres filas y tres columnas.
 
-**4.2 ¿Qué es una matriz poco densa?**
+**2. ¿Qué es una matriz poco densa?**
 Una matriz poco densa es aquella en la que la mayoría de sus posiciones no contienen información relevante o contienen valores vacíos o iguales a cero, mientras que solamente unas pocas posiciones tienen datos.
 
-**4.3 Ejemplo aplicado al caso académico**
+**3. Ejemplo aplicado al caso académico**
 Un ejemplo aplicado al caso académico sería el siguiente: si la institución tiene 20 aulas y 10 bloques horarios disponibles para los talleres, existen 200 combinaciones posibles de aula y horario. Sin embargo, en un determinado periodo solamente se utilizan 15 combinaciones, mientras que las demás permanecen sin estudiantes. En este caso, una matriz poco densa sería más conveniente que una matriz completa, porque la mayoría de las posiciones estarían vacías o tendrían valor cero. De esta manera, se puede trabajar principalmente con las posiciones que realmente contienen información, evitando manejar una gran cantidad de posiciones sin datos.
 
 
@@ -131,11 +131,11 @@ Un ejemplo aplicado al caso académico sería el siguiente: si la institución t
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
-| [José Fernando Frias Díaz] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Gianfranco Arturo Bernal Saravia] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Martha Sofia Lozano Paredes] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| Yanhira Lizeth Gutiérrez Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Alessandro Ismael Gallo Quiroz] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [José Fernando Frias Díaz] | [Alta] | [Alta] | [Alta] | [Sí] | [Implementación y validación del código de la Actividad 3 (Matrices y recorridos).] |
+| [Gianfranco Arturo Bernal Saravia] | [Alta] | [Alta] | [Alta] | [Sí] | [Investigación y redacción teórica de la Actividad 4 (Matrices especiales)] |
+| [Martha Sofia Lozano Paredes] | [Alta] | [Alta] | [Alta] | [Sí] | [Configuración del repositorio en GitHub, elaboración de PPT y redacción de conclusiones.] |
+| Yanhira Lizeth Gutiérrez Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Análisis conceptual y desarrollo de la Actividad 1 (Estructuras estáticas y dinámicas)] |
+| [Alessandro Ismael Gallo Quiroz] | [Alta] | [Alta] | [Alta] | [Sí] | [Desarrollo de algoritmos vectoriales, lógica de ordenamiento (Actividad 2) y soporte de Git.] |
 
 
 ## 6. Video de exposición
@@ -144,10 +144,12 @@ Un ejemplo aplicado al caso académico sería el siguiente: si la institución t
 
 ## 7. Conclusiones
 
-- [Conclusión 1]
-- [Conclusión 2]
-- [Conclusión 3]
+## 7. Conclusiones
 
----
+* **Fundamentación y selección de estructuras (Actividad 1):** Se determinó que el uso de estructuras estáticas como arreglos y matrices es ideal en etapas iniciales para consolidar el control algorítmico y conectar de forma directa los datos, las estructuras y las operaciones lógicas básicas[cite: 1].
+* **Procesamiento y optimización de vectores (Actividad 2):** La implementación de algoritmos de búsqueda, inserción controlada y ordenamiento en arreglos unidimensionales permitió gestionar eficientemente los registros de inscripción bajo un enfoque de lógica backend[cite: 1].
+* **Análisis matricial y recorridos completos (Actividad 3):** Mediante el uso de matrices bidimensionales y bucles anidados, se logró automatizar con éxito el cálculo de la ocupación por aulas y bloques horarios, permitiendo localizar con precisión los picos máximos de asistencia[cite: 1].
+* **Toma de decisiones con matrices especiales (Actividad 4):** Se comprobó que el diseño de matrices poco densas optimiza de manera drástica el uso de la memoria y los recursos computacionales en escenarios institucionales donde la mayoría de las combinaciones permanecen sin uso[cite: 1].
+* **Gestión colaborativa y entrega del proyecto:** Gracias a la división organizada de roles en el equipo —cubriendo el desarrollo técnico de cada módulo, la gestión de versiones en el repositorio, la documentación general y la síntesis ejecutiva—, se consolidó un producto académico robusto y estandarizado.
 
 **Última actualización:** [22/09/2026]

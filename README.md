@@ -12,7 +12,7 @@
 | [José Fernando Frias Díaz] | [Rol] | [100%] |
 | [Gianfranco Arturo Bernal Saravia] | [Rol] | [100%] |
 | [Martha Sofia Lozano Paredes] | [Rol] | [100%] |
-| [Nombre 4] | [Rol] | [100%] |
+| [Yanhira Lizeth Gutiérrez Pérez] | [Rol] | [100%] |
 | [Alessandro Ismael Gallo Quiroz] | [Rol] | [100%] |
 
 ## ACTIVIDAD 1 - Análisis del problema y selección de estructura

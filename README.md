@@ -1,5 +1,20 @@
 # PA1 - Evaluación aplicada sobre estructuras lineales estáticas
 
+> **Curso:** Algoritmo y Estructura de Datos Basados en Inteligencia Artificial
+> **Código:** 30710 
+> **Evaluación:** [PA1]
+
+
+## Integrantes: 
+
+| Integrante | Rol | Aporte principal |
+|---|---|---|
+| [Nombre 1] | [Rol] | [Aporte] |
+| [Nombre 2] | [Rol] | [Aporte] |
+| [Nombre 3] | [Rol] | [Aporte] |
+| [Nombre 4] | [Rol] | [Aporte] |
+| [Nombre 5] | [Rol] | [Aporte] |
+
 ## ACTIVIDAD 1 - Análisis del problema y selección de estructura
 **1. Diferencia entre estructura estática y dinámica**
 

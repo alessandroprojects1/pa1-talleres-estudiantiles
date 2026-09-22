@@ -1,5 +1,36 @@
 # PA1 - Evaluación aplicada sobre estructuras lineales estáticas
 
+## ACTIVIDAD 1 - Análisis del problema y selección de estructura
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## ACTIVIDAD 2 - Modelado y operaciones con vectores
 
@@ -31,3 +62,37 @@ java src.TallerInscritos
 
 
 <img width="652" height="577" alt="evidencias" src="https://github.com/user-attachments/assets/e59a40ea-6b6b-4fc1-b1fb-cf3646d63dde" />
+
+
+## Actividad 3. Matrices y recorrido completo de datos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Actividad 4. Matrices especiales y decisión técnica
+
+
+

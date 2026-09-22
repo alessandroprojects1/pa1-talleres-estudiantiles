@@ -4,7 +4,6 @@
 > **Código:** 30710 
 > **Evaluación:** [PA1]
 
-
 ## Integrantes: 
 
 | Integrante | Rol | Aporte principal |
@@ -14,6 +13,8 @@
 | [Martha Sofia Lozano Paredes] | [Rol] | [100%] |
 | [Yanhira Lizeth Gutiérrez Pérez] | [Rol] | [100%] |
 | [Alessandro Ismael Gallo Quiroz] | [Rol] | [100%] |
+
+------------------------------------------------------------------------------------------
 
 ## ACTIVIDAD 1 - Análisis del problema y selección de estructura
 **1. Diferencia entre estructura estática y dinámica**
@@ -72,27 +73,40 @@ java src.TallerInscritos
 <img width="652" height="577" alt="evidencias" src="https://github.com/user-attachments/assets/e59a40ea-6b6b-4fc1-b1fb-cf3646d63dde" />
 
 
+
 ## Actividad 3. Matrices y recorrido completo de datos
 
+**1. Problema:**  
+La institución necesita registrar y analizar la ocupación de estudiantes en las aulas mediante una estructura matricial, donde cada fila representa un aula (4 en total) y cada columna representa un bloque horario (5 en total), requiriendo un procesamiento automatizado para calcular totales por aula, por horario e identificar picos de máxima ocupación.
+
+**2. Objetivo:**  
+Diseñar e implementar una solución en Java utilizando una matriz bidimensional de 4x5 para procesar, sumar y analizar la distribución de estudiantes, aplicando algoritmos de recorrido por filas y columnas para la toma de decisiones institucionales.
+
+**3. Solución desarrollada:**  
+Se desarrolló el programa `Actividad3` en Java que modela la ocupación de las aulas mediante una matriz bidimensional estática. La solución incluye:
+- **Representación matricial:** Una matriz de 4 filas (aulas de índices 0 a 3) y 5 columnas (bloques horarios de índices 0 a 4).
+- **Cálculo por filas:** Algoritmo que recorre cada fila para sumar la cantidad total de estudiantes acumulados por aula.
+- **Cálculo por columnas:** Algoritmo que recorre cada columna de manera vertical para obtener el total de estudiantes por bloque horario.
+- **Búsqueda de máximo:** Algoritmo de recorrido completo (`for` anidado) que compara cada celda para encontrar el valor máximo de ocupación y su ubicación exacta `[fila][columna]`.
+- **Por qué requiere recorrer varias posiciones:** Esta actividad exige recorrer múltiples posiciones porque los datos están distribuidos en dos dimensiones (espacio y tiempo). Para procesar totales o buscar un valor extremo, es indispensable visitar cada intersección de la matriz utilizando bucles anidados que controlen de manera independiente los índices de las filas y las columnas.
+
+**Cómo ejecutar o revisar:**
+
+```bash
+# Clona el repositorio en tu computadora
+git clone [https://github.com/alessandroprojects1/pa1-talleres-estudiantiles.git](https://github.com/alessandroprojects1/pa1-talleres-estudiantiles.git)
+
+# Entra a la carpeta del proyecto (o compila directamente el archivo)
+cd pa1-talleres-estudiantiles
+
+# Compila y ejecuta el archivo Actividad3.java con Java
+javac Actividad3.java
+java Actividad3
+```
+**4. Evidencia**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="560" height="707" alt="evidencia2" src="https://github.com/user-attachments/assets/b894b827-6679-48e5-b3a5-bb27684749af" />
 
 
 

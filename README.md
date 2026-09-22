@@ -9,11 +9,11 @@
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [Nombre 1] | [Rol] | [Aporte] |
-| [Nombre 2] | [Rol] | [Aporte] |
-| [Nombre 3] | [Rol] | [Aporte] |
-| [Nombre 4] | [Rol] | [Aporte] |
-| [Nombre 5] | [Rol] | [Aporte] |
+| [José Fernando Frias Díaz] | [Rol] | [100%] |
+| [Gianfranco Arturo Bernal Saravia] | [Rol] | [100%] |
+| [Martha Sofia Lozano Paredes] | [Rol] | [100%] |
+| [Nombre 4] | [Rol] | [100%] |
+| [Alessandro Ismael Gallo Quiroz] | [Rol] | [100%] |
 
 ## ACTIVIDAD 1 - Análisis del problema y selección de estructura
 **1. Diferencia entre estructura estática y dinámica**
@@ -108,11 +108,11 @@ java src.TallerInscritos
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
-| [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [José Fernando Frias Díaz] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Gianfranco Arturo Bernal Saravia] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Martha Sofia Lozano Paredes] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Nombre 4] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Alessandro Ismael Gallo Quiroz] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 
 
 ## 6. Video de exposición

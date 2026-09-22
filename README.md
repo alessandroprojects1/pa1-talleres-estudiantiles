@@ -1,34 +1,27 @@
 # PA1 - Evaluación aplicada sobre estructuras lineales estáticas
 
 ## ACTIVIDAD 1 - Análisis del problema y selección de estructura
+**1. Diferencia entre estructura estática y dinámica**
 
+Una estructura estática es aquella en la que la cantidad de datos que podemos almacenar ya está definida desde el inicio (por ejemplo, un arreglo con una cantidad fija de espacios). En cambio, una estructura dinámica puede aumentar o disminuir su tamaño mientras se ejecuta el programa. En este trabajo utilizamos estructuras estáticas porque trabajamos directamente con arreglos y matrices.
 
+**2. ¿Por qué usar arreglos y matrices?**
 
+Los arreglos nos sirven para guardar datos de forma ordenada; por ejemplo, para registrar cuántos alumnos están inscritos en cada taller.
 
+Las matrices nos permiten organizar información utilizando filas y columnas, lo cual nos ayuda a gestionar datos relacionados, como la cantidad de estudiantes según el aula y el horario.
+Por estas razones, los arreglos y matrices son herramientas muy útiles para organizar y revisar la información de los talleres de manera eficiente.
 
+**3. Relación entre dato, algoritmo y estructura de datos
+Estos tres conceptos trabajan en conjunto:**
 
+Dato: Es la información base que manejamos, por ejemplo, la cantidad de alumnos inscritos.
 
+Estructura de datos: Es la forma en la que guardamos y ordenamos esa información (como los arreglos y las matrices).
 
+Algoritmo: Son los pasos lógicos que seguimos para trabajar con esos datos (como buscar el número mayor, ordenar los elementos o calcular totales).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**En resumen:** primero tenemos los datos, luego los organizamos utilizando una estructura de datos y, finalmente, aplicamos un algoritmo para poder procesarlos y trabajar con ellos.
 
 
 

@@ -104,3 +104,29 @@ java src.TallerInscritos
 
 
 
+## 5. Matriz de participación
+
+| Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
+|---|---|---|---|---|---|
+| [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+
+
+## 6. Video de exposición
+
+**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+
+Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
+
+## 7. Conclusiones
+
+- [Conclusión 1]
+- [Conclusión 2]
+- [Conclusión 3]
+
+---
+
+**Última actualización:** [DD/MM/AAAA]

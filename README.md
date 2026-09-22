@@ -8,11 +8,11 @@
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [José Fernando Frias Díaz] | [Desarrollador de Módulos Matriciales] | [Desarrollo e implementación algorítmica de la Actividad 3 (Matrices y recorrido completo de datos).] |
-| [Gianfranco Arturo Bernal Saravia] | [Analista de Estructuras Especiales] | [Investigación y estructuración técnica de la Actividad 4 (Matrices especiales y decisión técnica).] |
-| [Martha Sofia Lozano Paredes] | [Gestor de Repositorio y Documentación] | [Configuración del repositorio en GitHub, diseño de la presentación ejecutiva (PPT) y redacción de conclusiones.] |
-| [Yanhira Lizeth Gutiérrez Pérez] | [Analista de Requisitos y Fundamentación] | [Análisis conceptual y desarrollo teórico de la Actividad 1 (Análisis del problema y selección de estructura).] |
-| [Alessandro Ismael Gallo Quiroz] | [Desarrollador Backend Principal] | [Modelado, desarrollo de algoritmos vectoriales y lógica de ordenamiento de la Actividad 2] |
+| José Fernando Frias Díaz | [Desarrollador de Módulos Matriciales] | [Desarrollo e implementación algorítmica de la Actividad 3 (Matrices y recorrido completo de datos).] |
+| Gianfranco Arturo Bernal Saravia | [Analista de Estructuras Especiales] | [Investigación y estructuración técnica de la Actividad 4 (Matrices especiales y decisión técnica).] |
+| Martha Sofia Lozano Paredes | [Gestor de Repositorio y Documentación] | [Configuración del repositorio en GitHub, diseño de la presentación ejecutiva (PPT) y redacción de conclusiones.] |
+| Yanhira Lizeth Gutiérrez Pérez | [Analista de Requisitos y Fundamentación] | [Análisis conceptual y desarrollo teórico de la Actividad 1 (Análisis del problema y selección de estructura).] |
+| Alessandro Ismael Gallo Quiroz | [Desarrollador Backend Principal] | [Modelado, desarrollo de algoritmos vectoriales y lógica de ordenamiento de la Actividad 2] |
 
 ------------------------------------------------------------------------------------------
 
@@ -144,7 +144,6 @@ Un ejemplo aplicado al caso académico sería el siguiente: si la institución t
 
 ## 7. Conclusiones
 
-## 7. Conclusiones
 
 * **Fundamentación y selección de estructuras (Actividad 1):** Se determinó que el uso de estructuras estáticas como arreglos y matrices es ideal en etapas iniciales para consolidar el control algorítmico y conectar de forma directa los datos, las estructuras y las operaciones lógicas básicas[cite: 1].
 * **Procesamiento y optimización de vectores (Actividad 2):** La implementación de algoritmos de búsqueda, inserción controlada y ordenamiento en arreglos unidimensionales permitió gestionar eficientemente los registros de inscripción bajo un enfoque de lógica backend[cite: 1].

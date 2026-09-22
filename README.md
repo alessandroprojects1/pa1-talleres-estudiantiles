@@ -119,8 +119,6 @@ java src.TallerInscritos
 
 **Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
 
-Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
-
 ## 7. Conclusiones
 
 - [Conclusión 1]

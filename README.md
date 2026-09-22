@@ -28,4 +28,6 @@ javac src/TallerInscritos.java
 java src.TallerInscritos
 ```
 **4. Evidencias**
+
+
 <img width="652" height="577" alt="evidencias" src="https://github.com/user-attachments/assets/e59a40ea-6b6b-4fc1-b1fb-cf3646d63dde" />
